@@ -1,0 +1,19 @@
+[tool.poetry]
+name = "langserve-sdk"
+version = "0.1.0"
+description = ""
+authors = ["Hoseong Liam Hwang <449334+thefron@users.noreply.github.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+fastapi = "^0.105.0"
+langchain = "^0.0.350"
+langserve = "^0.0.35"
+openai = "^1.3.9"
+sse-starlette = "^1.8.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

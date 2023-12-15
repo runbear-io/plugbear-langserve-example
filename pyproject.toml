@@ -6,7 +6,7 @@ authors = ["Hoseong Liam Hwang <449334+thefron@users.noreply.github.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
-python = "^3.11"
+python = "^3.10"
 fastapi = "^0.105.0"
 langchain = "^0.0.350"
 langserve = "^0.0.35"

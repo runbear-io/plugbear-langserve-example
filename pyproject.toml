@@ -1,5 +1,5 @@
 [tool.poetry]
-name = "langserve-sdk"
+name = "plugbear-langserve-example"
 version = "0.1.0"
 description = ""
 authors = ["Hoseong Liam Hwang <449334+thefron@users.noreply.github.com>"]
